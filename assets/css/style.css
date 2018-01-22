@@ -126,6 +126,8 @@ p{
     clear:left;
     display: inline;
     clear: both;
+    font-size: 18px;
+    line-height: 1.5;
 }
 
 
